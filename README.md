@@ -66,12 +66,12 @@ The Power BI data model connects the employee data with a dedicated Date Table t
 
 ## 📊 Dashboard Preview
 
-![HR Employee Analytics Dashboard]("https://github.com/manowarmallik/HR-Employee-Analytics-PowerBI/blob/main/HR_EMP_Dashboard.png")
+![HR Employee Analytics Dashboard](./HR_EMP_Dashboard.png)
 
 ## 📁 Project Files
 
 * `"C:\Users\Manowar Mallik\OneDrive\Desktop\HR_ANALYTICS_Project.pbix"` — Power BI report
-* `https://github.com/manowarmallik/HR-Employee-Analytics-PowerBI/blob/main/HR_EMP_Dashboard.png` — Dashboard screenshots
+* `./HR_EMP_Dashboard.png` — Dashboard screenshots
 * `README.md` — Project documentation
 
 ## 💡 Skills Demonstrated
