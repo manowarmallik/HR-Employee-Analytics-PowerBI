@@ -70,7 +70,7 @@ The Power BI data model connects the employee data with a dedicated Date Table t
 
 ## 📁 Project Files
 
-* `"C:\Users\Manowar Mallik\OneDrive\Desktop\HR_ANALYTICS_Project.pbix"` — Power BI report
+* `HR_ANALYTICS_Project.pbix` — Power BI report
 * `./HR_EMP_Dashboard.png` — Dashboard screenshots
 * `README.md` — Project documentation
 
